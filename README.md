@@ -1,6 +1,5 @@
 https://www.udacity.com/
 
-# Udacity Data Analyst Degree
 
 **Project I: Explore Weather Trends**
 
